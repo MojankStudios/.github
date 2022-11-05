@@ -31,4 +31,4 @@ To briefly summarise:
 - Mojang does not disallow and actually encourages modifications to Minecraft.
 - This is an implementation of publicly available information from sources such as https://wiki.vg.
 
-TL;DR probably not but lol who knows im not a lawyer
+TL;DR probably but lol who knows im not a lawyer
